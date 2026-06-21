@@ -1,5 +1,4 @@
 # C11 Ciência de Dados com Python
----
 
 ## Sobre o Repositório
 Este repositório contém os trabalhos realizados ao longo do semestre da matéria **C11 - Ciência de Dados com Python**. O objetivo é aprender a criar, manipular e analisar dados através do Python.
