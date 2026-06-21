@@ -18,6 +18,7 @@ O repositório está dividido em duas pastas, cada uma com um respectivo projeto
 ### Global AI Layoffs & Job Market (2020-Present) -- PROJETO 1
 Análise do impacto da inteligência artificial no mercado de trabalho e as demissões globais no setor de tecnologia.
 
+
 ### TikTok & Instagram Addiction Dataset (2015–2060) -- PROJETO 2
 Estudo de padrões de uso e potenciais fatores de dependência em plataformas de mídia social de vídeo curto.
 
