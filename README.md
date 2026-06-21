@@ -1,6 +1,4 @@
 # C11 Ciência de Dados com Python
-**Repositório de Projetos Semestrais**
-
 ---
 
 ## Sobre o Repositório
